@@ -102,8 +102,8 @@ table{
 }
 .t_item_BL{
     background-color: wheat;
-    width:  140px;
-    height: 90px;
+    width:  50%;
+    height: 150px;
     border-radius: 0px 0px 0px 30px;
     padding: 20px;
     text-align: center;
